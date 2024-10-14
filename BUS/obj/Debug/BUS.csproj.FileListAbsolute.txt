@@ -1,0 +1,15 @@
+F:\VSC_2022_CS\BaiTapBuoi6\BUS\bin\Debug\BUS.dll.config
+F:\VSC_2022_CS\BaiTapBuoi6\BUS\bin\Debug\BUS.dll
+F:\VSC_2022_CS\BaiTapBuoi6\BUS\bin\Debug\BUS.pdb
+F:\VSC_2022_CS\BaiTapBuoi6\BUS\bin\Debug\DAL.dll
+F:\VSC_2022_CS\BaiTapBuoi6\BUS\bin\Debug\EntityFramework.dll
+F:\VSC_2022_CS\BaiTapBuoi6\BUS\bin\Debug\EntityFramework.SqlServer.dll
+F:\VSC_2022_CS\BaiTapBuoi6\BUS\bin\Debug\DAL.pdb
+F:\VSC_2022_CS\BaiTapBuoi6\BUS\bin\Debug\DAL.dll.config
+F:\VSC_2022_CS\BaiTapBuoi6\BUS\bin\Debug\EntityFramework.xml
+F:\VSC_2022_CS\BaiTapBuoi6\BUS\bin\Debug\EntityFramework.SqlServer.xml
+F:\VSC_2022_CS\BaiTapBuoi6\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+F:\VSC_2022_CS\BaiTapBuoi6\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+F:\VSC_2022_CS\BaiTapBuoi6\BUS\obj\Debug\BUS.csproj.Up2Date
+F:\VSC_2022_CS\BaiTapBuoi6\BUS\obj\Debug\BUS.dll
+F:\VSC_2022_CS\BaiTapBuoi6\BUS\obj\Debug\BUS.pdb

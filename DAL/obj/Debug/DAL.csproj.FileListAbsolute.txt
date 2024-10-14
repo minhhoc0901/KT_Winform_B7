@@ -1,0 +1,12 @@
+F:\VSC_2022_CS\BaiTapBuoi6\DAL\bin\Debug\DAL.dll.config
+F:\VSC_2022_CS\BaiTapBuoi6\DAL\bin\Debug\DAL.dll
+F:\VSC_2022_CS\BaiTapBuoi6\DAL\bin\Debug\DAL.pdb
+F:\VSC_2022_CS\BaiTapBuoi6\DAL\bin\Debug\EntityFramework.dll
+F:\VSC_2022_CS\BaiTapBuoi6\DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\VSC_2022_CS\BaiTapBuoi6\DAL\bin\Debug\EntityFramework.xml
+F:\VSC_2022_CS\BaiTapBuoi6\DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\VSC_2022_CS\BaiTapBuoi6\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\VSC_2022_CS\BaiTapBuoi6\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\VSC_2022_CS\BaiTapBuoi6\DAL\obj\Debug\DAL.csproj.Up2Date
+F:\VSC_2022_CS\BaiTapBuoi6\DAL\obj\Debug\DAL.dll
+F:\VSC_2022_CS\BaiTapBuoi6\DAL\obj\Debug\DAL.pdb
